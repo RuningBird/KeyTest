@@ -12,7 +12,7 @@ import android.view.KeyEvent;
 public class MainActivity extends AppCompatActivity implements DrmManagerClient.OnEventListener{
 
     /**
-     * 当前音量213213132123
+     * 当前音量213213132123444
      */
     private int currentVolume;
     /**
